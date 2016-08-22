@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+<title>Portal LIGHT</title>
+<h1>Bem Vindo ao Portal da LIGHT</h1>
+<br>
+<br>
+
+<h2> Este &eacute; o espa&ccedil;o do Cliente </h2>
+</head>
+
+<body align="center" bgcolor = #00AFAA>
+<img src = "http://design.blog.br/wp-content/uploads/2010/03/eletrobras04.gif">
+<p style= "font-family:verdana ">O novo portal da LIGHT ficou bem melhor.</p>
+<br>
+
+<p style= "font-family:verdana" > Selecione o servi&ccedilo desejado:</p>
+<br>
+<br>
+<h1 align="center">Queda de Tens&atildeo</h1>
+
+<h1 align="center">Consumo acumulado</h1>
+
+<h1 align="center">Corrente de pico</h1>
+
+<h1 align="center">Pot&ecircncia de pico</h1>
+</ol>
+
+<br>
+<textarea name="nome" cols=70 rows=5> Reclamações: </textarea>
+
+<br>
+<br>
+
+
+<input type="submit" value="enviar">
+
+<input type="reset">
+<br>
+<br>
+
+<a align="center"  href="file:///C:/Users/Aluno/Desktop/inicial2.html">voltar para a pagina inicial</a>
+<br>
+
+</body>
+
+
+
+
+</html>
